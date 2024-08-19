@@ -20,7 +20,7 @@ export const WebDesign = () => {
         <DesignItem
           title="APP DESIGN"
           link="/appdesign"
-          bgClass="bg-appdesign-mobile sm:bg-appdesign-desktop"
+          bgClass="bg-appdesign-mobile sm:bg-appdesign-desktop "
           bgCover="bg-cover"
         />
         <DesignItem
