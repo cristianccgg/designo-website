@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button {
+  background-color: #e7816b;
+  color: white;
+  font-size: 15px;
+  padding: 24px 18px;
+}
+
+button:hover {
+  background-color: #ffad9b;
+}
