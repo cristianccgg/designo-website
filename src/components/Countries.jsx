@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import countriesJson from "/public/countries.json";
+import countriesJson from "/countries.json"; // La ruta debe ser correcta
 import pattern from "/images/shared/desktop/bg-pattern-small-circle.svg";
 
 export const Countries = () => {

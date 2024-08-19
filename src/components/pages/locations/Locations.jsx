@@ -3,21 +3,21 @@ import { useParams } from "react-router-dom";
 
 const locations = [
   {
-    image: "/public/images/locations/tablet/image-map-canada.png",
+    image: "/images/locations/tablet/image-map-canada.png",
     title: "Canada",
     subtitles: ["Designo Central Office", "Contact"],
     details1: ["3886 Wellington Street", "Toronto, Ontario M9C 3j5"],
     details2: ["P : +1 253-863-8967", "M : contact@designo.co"],
   },
   {
-    image: "/public/images/locations/tablet/image-map-australia.png",
+    image: "/images/locations/tablet/image-map-australia.png",
     title: "Australia",
     subtitles: ["Designo AU Office", "Contact"],
     details1: ["19 Balonne Street", "New South Wales 2443"],
     details2: ["P : (02) 6720 9092", "M : contact@designo.co"],
   },
   {
-    image: "/public/images/locations/tablet/image-map-uk.png",
+    image: "/images/locations/tablet/image-map-uk.png",
     title: "United Kingdom",
     subtitles: ["Designo UK Office", "Contact"],
     details1: ["13 Colorado Way", "Rhyd-y-fro SA8 9GA"],

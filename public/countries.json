@@ -1,17 +1,17 @@
 [
   {
     "name": "CANADA",
-    "image": "images/shared/desktop/illustration-canada.svg",
+    "image": "/images/shared/desktop/illustration-canada.svg",
     "button": "SEE LOCATION"
   },
   {
     "name": "AUSTRALIA",
-    "image": "images/shared/desktop/illustration-australia.svg",
+    "image": "/images/shared/desktop/illustration-australia.svg",
     "button": "SEE LOCATION"
   },
   {
     "name": "UNITED KINGDOM",
-    "image": "images/shared/desktop/illustration-united-kingdom.svg",
+    "image": "/images/shared/desktop/illustration-united-kingdom.svg",
     "button": "SEE LOCATION"
   }
 ]
